@@ -16,7 +16,7 @@ In this project, i want to find out that,
 
 ## Data Sources  
 1. **Public Forum Posts / Community Texts** (Secondary Data):  
-   - Subreddits like r/MMORPG, r/gaming, Turkish game forums.  
+   - Subreddits like r/MMORPG, r/gaming, game forums.  
    - Posts and comments containing keywords such as “can’t stop playing”, “spent too much”, “event missed”.  
 2. **Anonymous Survey (Primary Data):**  
    - Age range, gender   
