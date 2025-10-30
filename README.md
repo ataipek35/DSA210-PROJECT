@@ -37,7 +37,7 @@ In this project, i want to find out that,
   - Compute a “risk score” from survey data using sum/average of results.  
   - Build a logistic decision tree: high-risk vs. low-risk classification based on features (e.g., > 30 hrs/week, > €100/month spending, frequent “missed event” posts).  
 - **Visualization & Reporting:**  
-  - Charts and insights will be created with python to show trends in gaming habits and risk indicators.  
+  - Charts and insights will be created with python (pandas, matplotlib, seaborn) to show trends in gaming habits and risk indicators.  
   - Findings will be summarized in tables and visual plots for clear interpretation.
 
 ---
