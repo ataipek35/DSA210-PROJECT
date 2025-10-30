@@ -20,9 +20,9 @@ Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long pla
    - Subreddits like r/MMORPG, r/gaming, Turkish game forums.  
    - Posts and comments containing keywords such as “can’t stop playing”, “spent too much”, “event missed”.  
 2. **Anonymous Survey (Primary Data):**  
-   - Age range, gender (optional)  
+   - Age range, gender   
    - Weekly playtime, in-game spending, guild/peer pressure, feelings of control/loss.  
-   - Short problem-gaming scale (5-7 items Likert 1-5).
+   - A short set of 5–7 questions rated from 1 (strongly disagree) to 5 (strongly agree) to measure how difficult it is for players to control their gaming habits.
 
 ---
 
@@ -30,23 +30,22 @@ Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long pla
 - **Data Collection & Cleaning:**  
   - Scrape/forum download of public posts.  
   - Removal of personal IDs, usernames; anonymisation.  
-  - Survey responses gathered via Google Forms/Typeform (anonymous).  
+  - Survey responses gathered via Google Forms (anonymous).  
 - **Exploratory Analysis:**  
   - Summary statistics: playtime, spending distribution.  
   - Text analysis: keyword counts, sentiment distribution, topic modelling for forum posts.  
-- **Modeling (if applicable):**  
-  - Compute a “risk score” from survey data (sum/average of Likert items).  
-  - Build a logistic regression/decision tree: high-risk vs. low-risk classification based on features (e.g., > 30 hrs/week, > €100/month spending, frequent “missed event” posts).  
+- **Modeling:**  
+  - Compute a “risk score” from survey data using sum/average of results.  
+  - Build a logistic decision tree: high-risk vs. low-risk classification based on features (e.g., > 30 hrs/week, > €100/month spending, frequent “missed event” posts).  
 - **Visualization & Reporting:**  
-  - Histograms, box-plots for survey metrics.  
-  - Bar charts for keyword frequencies and sentiment.  
-  - Feature importance plot for model.
+  - Charts and insights will be created with python to show trends in gaming habits and risk indicators.  
+  - Findings will be summarized in tables and visual plots for clear interpretation.
 
 ---
 
 ## Expected Outcomes  
 - Identification of a profile of MMORPG players at elevated risk (e.g., more than X hours/week + Y spending + high peer/guild pressure).  
-- Insights from community discourse about how players express loss of control, FOMO, peer obligation.  
+- Insights from community discourse about how players express loss of control.  
 - A deliverable “risk-score” tool (prototype) and set of visualisations to support findings.
 
 ---
@@ -54,8 +53,5 @@ Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long pla
 ## Ethical Considerations  
 - Survey is anonymous and voluntary; no personally identifiable information is collected.  
 - Only publicly-available forum posts are used; usernames and personal data will be removed or anonymised.  
-- Results will be presented as “risk indicators” rather than clinical diagnosis.  
-- All data sources will be cited and usage will respect platform terms of service.
-
-python src/preprocess_text.py  
-python src/model.py  
+- Results will be presented as “risk indicators” rather than clinical diagnosis. Just my personal thoughts and results of the topic.
+- All data sources will be cited.
