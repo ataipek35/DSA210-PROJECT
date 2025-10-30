@@ -1,5 +1,5 @@
 # Exploring Addiction-Risk in MMORPG Players  
-### DSA 210 Project Proporsal
+### DSA 210 Project Proposal
 
 ---
 
