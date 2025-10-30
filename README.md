@@ -4,14 +4,13 @@
 ---
 
 ## Motivation  
-Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long play sessions, social guild dynamics, and in-game economies that can encourage high time and financial investment. Some people while being in their 30s or older, continue to engage heavily in these type of games. This project aims to explore why people spend thousands of hours and cash to MMORPG.
+Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long play sessions, social guild dynamics, and in-game economies that encourage significant time and financial investment. Some people, even in their 30s or older, continue to engage heavily in these types of games. This project aims to explore why players spend thousands of hours and large amounts of money on MMORPGs, even when they don’t have much free time or disposable income.
 
----
+In this project, i want to find out that,
 
-## Research Questions  
-- RQ1: What behavioural patterns (in playtime, spending, social pressure) correlate with increased risk of problem-gaming in MMORPGs?  
-- RQ2: How does forum/community discourse reflect addiction-risk language among MMORPG players?  
-- RQ3: Can a simple risk-score model be created from survey responses and/or forum-derived features to identify higher-risk profiles?
+What behavioural patterns (in playtime, spending, social pressure) correlate with increased risk of problem-gaming in MMORPGs? 
+How does forum/community discourse reflect addiction-risk language among MMORPG players?  
+Can a simple risk-score model be created from survey responses and/or forum-derived features to identify higher-risk profiles?
 
 ---
 
