@@ -4,7 +4,7 @@
 ---
 
 ## Motivation  
-Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long play sessions, social guild dynamics, and in-game economies that can encourage high time and financial investment. Some players while being in their 30s or older, continue to engage heavily in these games, sometimes spending thousands of turkish liras and hours on these games. This project aims to explore **addiction-risk indicators** rather than clinical addiction, focusing broadly on MMORPGs.
+Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long play sessions, social guild dynamics, and in-game economies that can encourage high time and financial investment. Some people while being in their 30s or older, continue to engage heavily in these type of games. This project aims to explore why people spend thousands of hours and cash to MMORPG.
 
 ---
 
@@ -19,7 +19,7 @@ Massively Multiplayer Online Role-Playing Games (MMORPGs) often involve long pla
 1. **Public Forum Posts / Community Texts** (Secondary Data):  
    - Subreddits like r/MMORPG, r/gaming, Turkish game forums.  
    - Posts and comments containing keywords such as “can’t stop playing”, “spent too much”, “event missed”.  
-2. **Anonymous Survey (Primary Data, Optional):**  
+2. **Anonymous Survey (Primary Data):**  
    - Age range, gender (optional)  
    - Weekly playtime, in-game spending, guild/peer pressure, feelings of control/loss.  
    - Short problem-gaming scale (5-7 items Likert 1-5).
