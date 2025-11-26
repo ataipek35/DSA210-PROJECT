@@ -55,6 +55,41 @@ In this project, i want to find out that,
 - Results will be presented as “risk indicators” rather than clinical diagnosis. Just my personal thoughts and results of the topic.
 - All data sources will be cited.
 
+## Data Collection
+Data for this project was gathered using both primary and secondary sources to better understand addiction-risk behaviors in MMORPG players.
+
+ # Primary Data (Survey Responses)
+
+A total of 22 participants completed an anonymous online survey created using Google Forms.
+The survey collected information about players’ demographic characteristics (age), daily playtime, monthly in-game spending, and a series of Likert-scale questions designed to measure key addiction-risk indicators such as:
+
+loss of control,
+
+difficulty stopping,
+
+guilt or anxiety after missing events,
+
+interference with daily life,
+
+perceived social or guild pressure.
+
+All responses were exported as a CSV file and processed in Python.
+After removing incomplete or non-numeric entries, 11 fully-completed cases remained and were used in the statistical analysis and hypothesis testing.
+
+ # Secondary Data (Community Forum Posts)
+
+To complement the survey data, additional qualitative insights were collected from public online forums such as Reddit’s r/MMORPG community.
+Posts discussing topics like “can’t stop playing,” “MMOs are designed to be addictive,” and “spent too much on the game” were manually reviewed.
+Players often describe MMORPGs as intentionally built around continuous reward systems (e.g., levels, cosmetics, mounts) and strong social expectations from guilds, which aligns with established research on MMORPG engagement patterns.
+
+These forum posts were used as secondary qualitative data to contextualize the survey findings and illustrate how players themselves talk about addictive design, social pressure, and loss-of-control experiences.
+
+ # Ethical Considerations
+
+All survey responses were anonymous and voluntary.
+Forum posts used were publicly accessible and no usernames or identifying information were recorded.
+Data was cleaned and anonymized before analysis.
+
 ## Summary Statistics of Survey Variables {Google Forms} (n = 11; total collected = 22)
 
 | Variable                            | Mean   | Std    | Min | 25% | 50% | 75%  | Max  |
