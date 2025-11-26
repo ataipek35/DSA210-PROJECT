@@ -169,6 +169,26 @@ A noticeable relationship was found between social pressure and negative impacts
 - Addiction-Risk Indicators Correlate with Each Other:
 Variables such as loss of control, difficulty stopping, and interference with life showed meaningful positive correlations, suggesting they measure overlapping aspects of problematic gaming patterns.
 
+## Community Insights (Reddit / Forum Analysis)
+
+To supplement the quantitative survey data, qualitative insights were gathered from MMORPG community forums, particularly the r/MMORPG subreddit.
+Players often describe MMORPGs as intentionally designed to encourage long-term engagement through:
+
+constant reward systems (levels, cosmetics, drops),
+
+social obligations from guilds,
+
+fear of missing scheduled events,
+
+and a strong pressure to "keep up" with others.
+
+- One example comes from a widely discussed thread:
+
+“MMOs get people addicted because they provide small rewards constantly… this gives dopamine hits and makes you want to keep playing.”
+-r/MMORPG user
+
+These community discussions align with the survey findings, showing that loss of control, difficulty stopping, and feelings of pressure are not isolated experiences but commonly expressed by players online.
+
 # Hypothesis Testing
 
 Two statistical hypothesis tests were conducted to examine whether key behavioral variables—such as daily playtime and monthly spending—are associated with addiction-risk indicators in MMORPG players. Both tests use Pearson’s correlation coefficient on the cleaned dataset (n = 11).
