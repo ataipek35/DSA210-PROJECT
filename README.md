@@ -187,12 +187,13 @@ There is no significant relationship between daily playtime and loss-of-control 
 - H₁ (Alternative Hypothesis):
 There is a significant positive relationship: as daily playtime increases, loss-of-control scores also increase.
 
-## Statistical Test
+### Statistical Test  
+**Pearson Correlation Coefficient**
 
-Pearson Correlation Coefficient:
-
+```python
 from scipy.stats import pearsonr
 pearsonr(df_clean["HoursNumeric"], df_clean["I often play longer than I originally intended."])
+
 
 Result:
 
