@@ -55,6 +55,8 @@ In this project, i want to find out that,
 - Results will be presented as “risk indicators” rather than clinical diagnosis. Just my personal thoughts and results of the topic.
 - All data sources will be cited.
 
+## Summary Statistics of Survey Variables (n = 11; total collected = 22)
+
 | Variable                            | Mean   | Std    | Min | 25% | 50% | 75%  | Max  |
 | ----------------------------------- | ------ | ------ | --- | --- | --- | ---- | ---- |
 | **Age**                             | 23.36  | 3.69   | 19  | 21  | 21  | 25.5 | 31   |
