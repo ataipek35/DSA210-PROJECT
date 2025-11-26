@@ -94,7 +94,7 @@ Data was cleaned and anonymized before analysis.
 Exploratory Data Analysis was conducted on the cleaned subset of 11 complete survey responses.
 The goal of this stage was to examine the distribution of key behavioral variables (playtime, spending, pressure, loss-of-control indicators) and identify preliminary patterns that may relate to addiction-risk in MMORPG players.
 
-# Summary Statistics of Survey Variables {Google Forms} (n = 11; total collected = 22)
+# Summary Statistics of Survey Variables (n = 11; total collected = 22)
 
 Table 1 reports descriptive statistics for all numeric variables, including age, daily playtime (converted to numeric midpoints), monthly spending, and all Likert-scale addiction-risk indicators.
 
