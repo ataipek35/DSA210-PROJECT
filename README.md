@@ -236,6 +236,27 @@ There is a moderate positive trend, meaning players who spend more money tend to
 
 This result also suggests that monetary spending alone may not fully explain addiction-risk and likely interacts with social features, game design, or player motivations.
 
+## Summary of Hypothesis Testing
+
+Both tests produced positive correlations, indicating that:
+
+- higher daily playtime
+
+- higher monthly spending
+
+are both associated with higher loss-of-control behaviors.
+
+
+These findings justify collecting more data in the future or expanding the model using additional variables such as:
+
+- social pressure,
+
+- missed event anxiety,
+
+- difficulty stopping,
+
+- interference with daily life.
+
 
 
   
