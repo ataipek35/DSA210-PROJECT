@@ -114,14 +114,23 @@ Table 1
 Key observations from the table:
 
 - Average age of participants was 23.36, with a range from 19 to 31.
-
 - Daily playtime averaged 5.41 hours, indicating relatively high engagement.
-
 - Monthly spending showed large variability (mean = 616 TL, SD = 750 TL), suggesting that spending behavior differs significantly across players.
-
 - Loss-of-control indicators (e.g., “I play longer than intended”, “I find it difficult to stop”) have mean values between 3.18 and 3.45, suggesting a tendency toward moderate-to-high levels of compulsive play.
-
 - Guild/social pressure had a mean of 2.45, but some participants reported the maximum value of 5, indicating meaningful pressure for certain players.
+
+## Distribution Analysis (Histograms)
+
+Distribution plots were generated for the major behavioral variables:
+
+Daily Playtime Distribution
+The distribution showed clustering around 3–6 hours and 6–9 hours, indicating that most participants engage in long daily sessions typical of MMORPG players.
+Monthly Spending Distribution
+Spending data was right-skewed, with most players spending modest amounts (0–200 TL), while a few users reported much higher spending (up to 2,000 TL).
+This heavy-tailed pattern is consistent with MMO monetization patterns where a minority of players contribute disproportionately to in-game revenue.
+Loss of Control & Difficulty Stopping (Likert-scale)
+Both variables showed mid-to-high distributions, with a notable number of participants selecting 4 or 5, indicating difficulty regulating playtime.
+These distribution results suggest that several players within the sample show elevated behavioral patterns commonly associated with problem gaming.
 
   
 
