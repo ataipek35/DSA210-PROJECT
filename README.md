@@ -119,7 +119,7 @@ Key observations from the table:
 - Loss-of-control indicators (e.g., “I play longer than intended”, “I find it difficult to stop”) have mean values between 3.18 and 3.45, suggesting a tendency toward moderate-to-high levels of compulsive play.
 - Guild/social pressure had a mean of 2.45, but some participants reported the maximum value of 5, indicating meaningful pressure for certain players.
 
-## 2.2 Distribution Analysis (Histograms)
+## Distribution Analysis (Histograms)
 
 Distribution plots were generated for the major behavioral variables:
 
@@ -138,6 +138,17 @@ This heavy-tailed pattern is consistent with MMO monetization patterns where a m
 Both variables showed mid-to-high distributions, with a notable number of participants selecting 4 or 5, indicating difficulty regulating playtime.
 
 These distribution results suggest that several players within the sample show elevated behavioral patterns commonly associated with problem gaming.
+
+## Relationship Exploration (Scatter Plot)
+
+A scatter plot was generated to examine the relationship between:
+
+-Daily playtime (hours)
+
+-Loss-of-control score
+
+Visual inspection indicated a positive trend, with higher playtime corresponding to elevated loss-of-control levels.
+Although this does not confirm causation, it provides preliminary support for testing the hypothesis that longer daily play sessions correlate with increased addiction-risk.
 
   
 
