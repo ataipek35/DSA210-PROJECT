@@ -170,5 +170,35 @@ A noticeable relationship was found between social pressure and negative impacts
 - Addiction-Risk Indicators Correlate with Each Other:
 Variables such as loss of control, difficulty stopping, and interference with life showed meaningful positive correlations, suggesting they measure overlapping aspects of problematic gaming patterns.
 
+# Hypothesis Testing
+
+Two statistical hypothesis tests were conducted to examine whether key behavioral variables—such as daily playtime and monthly spending—are associated with addiction-risk indicators in MMORPG players. Both tests use Pearson’s correlation coefficient on the cleaned dataset (n = 11).
+
+## Hypothesis 1: Daily playtime increases loss-of-control levels
+Research Question:
+
+Does spending more hours per day playing MMORPGs relate to higher levels of loss of control?
+
+Hypotheses:
+
+H₀ (Null Hypothesis):
+There is no significant relationship between daily playtime and loss-of-control scores.
+
+H₁ (Alternative Hypothesis):
+There is a significant positive relationship: as daily playtime increases, loss-of-control scores also increase.
+
+## Statistical Test
+
+Pearson Correlation Coefficient:
+from scipy.stats import pearsonr
+pearsonr(df_clean["HoursNumeric"], df_clean["I often play longer than I originally intended."])
+
+Result:
+
+- r = 0.52
+
+- p = 0.089
+
+
   
 
