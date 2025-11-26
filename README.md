@@ -198,6 +198,43 @@ Result:
 - r = 0.52
 - p = 0.089
 
+## Interpretation:
+
+Since p > 0.05, we fail to reject the null hypothesis.
+Although the correlation is moderately positive (r = 0.52), the relationship is not statistically significant at the 5% level.
+This means that within this sample, players who spend more hours per day tend to report more loss-of-control.
+However, the evidence is not strong enough to confirm the relationship statistically.
+
+## Hypothesis 2: In-game spending predicts loss-of-control levels
+Research Question:
+
+Do players who spend more money on MMORPGs report higher loss-of-control behaviors?
+
+Hypotheses:
+
+- H₀:
+There is no significant relationship between monthly spending and loss-of-control.
+
+- H₁:
+Higher monthly spending is positively associated with loss-of-control.
+
+### Statistical Test  
+**Pearson Correlation Coefficient**
+
+```python
+pearsonr(df_clean["How much money do you spend on in-game MMORPG purchases per month ? (in TL)"], df_clean["I often play longer than I originally intended."])
+```
+Result:
+
+- r = 0.47
+- p = 0.132
+
+## Interpretation
+
+Again, p > 0.05, so we fail to reject H₀.
+There is a moderate positive trend, meaning players who spend more money tend to report more loss-of-control, but this finding is not statistically significant.
+
+This result also suggests that monetary spending alone may not fully explain addiction-risk and likely interacts with social features, game design, or player motivations.
 
 
 
