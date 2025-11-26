@@ -150,5 +150,25 @@ A scatter plot was generated to examine the relationship between:
 Visual inspection indicated a positive trend, with higher playtime corresponding to elevated loss-of-control levels.
 Although this does not confirm causation, it provides preliminary support for testing the hypothesis that longer daily play sessions correlate with increased addiction-risk.
 
+## Correlation Analysis
+To further examine relationships between behavioral variables, a Pearson correlation analysis was conducted using the cleaned dataset (n = 11). The correlation matrix included daily playtime (numeric midpoint), monthly spending, and several addiction-risk indicators such as loss of control, difficulty stopping, and interference with daily life.
+
+Key Findings:
+
+- Daily Playtime → Loss of Control:
+A positive relationship was observed, indicating that players who spend more hours per day tend to report higher levels of loss of control.
+
+- Daily Playtime → Difficulty Stopping:
+A similar positive correlation emerged, suggesting that increased daily engagement is associated with greater difficulty disengaging from gameplay.
+
+- Monthly Spending → Loss of Control:
+A moderate positive relationship was identified, meaning players who spend more money in-game are also more likely to experience loss-of-control behaviors.
+
+- Guild/Social Pressure → Interference with Daily Life:
+A noticeable relationship was found between social pressure and negative impacts on work, school, or health.
+
+- Addiction-Risk Indicators Correlate with Each Other:
+Variables such as loss of control, difficulty stopping, and interference with life showed meaningful positive correlations, suggesting they measure overlapping aspects of problematic gaming patterns.
+
   
 
