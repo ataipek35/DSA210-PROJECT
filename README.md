@@ -181,15 +181,16 @@ Does spending more hours per day playing MMORPGs relate to higher levels of loss
 
 Hypotheses:
 
-H₀ (Null Hypothesis):
+- H₀ (Null Hypothesis):
 There is no significant relationship between daily playtime and loss-of-control scores.
 
-H₁ (Alternative Hypothesis):
+- H₁ (Alternative Hypothesis):
 There is a significant positive relationship: as daily playtime increases, loss-of-control scores also increase.
 
 ## Statistical Test
 
 Pearson Correlation Coefficient:
+
 from scipy.stats import pearsonr
 pearsonr(df_clean["HoursNumeric"], df_clean["I often play longer than I originally intended."])
 
