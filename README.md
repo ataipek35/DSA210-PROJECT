@@ -53,6 +53,8 @@ In this project, i want to find out that,
 - Only publicly-available forum posts are used; usernames and personal data will be removed or anonymised.  
 - Results will be presented as “risk indicators” rather than clinical diagnosis. Just my personal thoughts and results of the topic.
 - All data sources will be cited.
+  
+---
 
 # Data Collection
 Data for this project was gathered using both primary and secondary sources to better understand addiction-risk behaviors in MMORPG players.
@@ -83,11 +85,7 @@ Players often describe MMORPGs as intentionally built around continuous reward s
 
 These forum posts were used as secondary qualitative data to contextualize the survey findings and illustrate how players themselves talk about addictive design, social pressure, and loss-of-control experiences.
 
- ## Ethical Considerations
-
-All survey responses were anonymous and voluntary.
-Forum posts used were publicly accessible and no usernames or identifying information were recorded.
-Data was cleaned and anonymized before analysis.
+---
 
 ## Exploratory Data Analysis (EDA)
 
@@ -188,6 +186,8 @@ One example comes from a widely discussed thread:
 -r/MMORPG user
 
 These community discussions align with the survey findings, showing that loss of control, difficulty stopping, and feelings of pressure are not isolated experiences but commonly expressed by players online.
+
+---
 
 # Hypothesis Testing
 
