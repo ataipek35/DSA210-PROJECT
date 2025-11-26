@@ -174,15 +174,15 @@ Variables such as loss of control, difficulty stopping, and interference with li
 To supplement the quantitative survey data, qualitative insights were gathered from MMORPG community forums, particularly the r/MMORPG subreddit.
 Players often describe MMORPGs as intentionally designed to encourage long-term engagement through:
 
-constant reward systems (levels, cosmetics, drops),
+- Constant reward systems (levels, cosmetics, drops),
 
-social obligations from guilds,
+- Social obligations from guilds,
 
-fear of missing scheduled events,
+- Fear of missing scheduled events,
 
-and a strong pressure to "keep up" with others.
+- A strong pressure to "keep up" with others.
 
-- One example comes from a widely discussed thread:
+One example comes from a widely discussed thread:
 
 “MMOs get people addicted because they provide small rewards constantly… this gives dopamine hits and makes you want to keep playing.”
 -r/MMORPG user
