@@ -54,3 +54,15 @@ In this project, i want to find out that,
 - Only publicly-available forum posts are used; usernames and personal data will be removed or anonymised.  
 - Results will be presented as “risk indicators” rather than clinical diagnosis. Just my personal thoughts and results of the topic.
 - All data sources will be cited.
+
+| Variable                            | Mean   | Std    | Min | 25% | 50% | 75%  | Max  |
+| ----------------------------------- | ------ | ------ | --- | --- | --- | ---- | ---- |
+| **Age**                             | 23.36  | 3.69   | 19  | 21  | 21  | 25.5 | 31   |
+| **Monthly Spending (TL)**           | 616.36 | 750.56 | 0   | 90  | 200 | 600  | 2000 |
+| **Guild/Social Pressure (1–5)**     | 2.45   | 1.37   | 1   | 1   | 2   | 4    | 5    |
+| **Play longer than intended (1–5)** | 3.36   | 1.43   | 1   | 2   | 4   | 4    | 5    |
+| **Difficulty stopping (1–5)**       | 3.45   | 1.69   | 1   | 1   | 4   | 4    | 5    |
+| **Interference with life (1–5)**    | 3.18   | 1.60   | 1   | 1   | 4   | 4    | 5    |
+| **Spending concern (1–5)**          | 2.36   | 1.56   | 1   | 1   | 2   | 4    | 5    |
+| **Hours played per day (numeric)**  | 5.41   | 2.20   | 2   | 4.5 | 4.5 | 7.5  | 7.5  |
+
