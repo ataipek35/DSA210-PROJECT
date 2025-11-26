@@ -64,15 +64,15 @@ Data for this project was gathered using both primary and secondary sources to b
 A total of 22 participants completed an anonymous online survey created using Google Forms.
 The survey collected information about players’ demographic characteristics (age), daily playtime, monthly in-game spending, and a series of Likert-scale questions designed to measure key addiction-risk indicators such as:
 
-loss of control,
+- loss of control,
 
-difficulty stopping,
+- difficulty stopping,
 
-guilt or anxiety after missing events,
+- guilt or anxiety after missing events,
 
-interference with daily life,
+- interference with daily life,
 
-perceived social or guild pressure.
+- perceived social or guild pressure.
 
 All responses were exported as a CSV file and processed in Python.
 After removing incomplete or non-numeric entries, 11 fully-completed cases remained and were used in the statistical analysis and hypothesis testing.
