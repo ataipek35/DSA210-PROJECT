@@ -90,8 +90,16 @@ All survey responses were anonymous and voluntary.
 Forum posts used were publicly accessible and no usernames or identifying information were recorded.
 Data was cleaned and anonymized before analysis.
 
+## Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was conducted on the cleaned subset of 11 complete survey responses.
+The goal of this stage was to examine the distribution of key behavioral variables (playtime, spending, pressure, loss-of-control indicators) and identify preliminary patterns that may relate to addiction-risk in MMORPG players.
+
 # Summary Statistics of Survey Variables {Google Forms} (n = 11; total collected = 22)
 
+Table 1 reports descriptive statistics for all numeric variables, including age, daily playtime (converted to numeric midpoints), monthly spending, and all Likert-scale addiction-risk indicators.
+
+Table 1
 | Variable                            | Mean   | Std    | Min | 25% | 50% | 75%  | Max  |
 | ----------------------------------- | ------ | ------ | --- | --- | --- | ---- | ---- |
 | **Age**                             | 23.36  | 3.69   | 19  | 21  | 21  | 25.5 | 31   |
@@ -102,4 +110,18 @@ Data was cleaned and anonymized before analysis.
 | **Interference with life (1–5)**    | 3.18   | 1.60   | 1   | 1   | 4   | 4    | 5    |
 | **Spending concern (1–5)**          | 2.36   | 1.56   | 1   | 1   | 2   | 4    | 5    |
 | **Hours played per day (numeric)**  | 5.41   | 2.20   | 2   | 4.5 | 4.5 | 7.5  | 7.5  |
+
+Key observations from the table:
+
+- Average age of participants was 23.36, with a range from 19 to 31.
+
+- Daily playtime averaged 5.41 hours, indicating relatively high engagement.
+
+- Monthly spending showed large variability (mean = 616 TL, SD = 750 TL), suggesting that spending behavior differs significantly across players.
+
+- Loss-of-control indicators (e.g., “I play longer than intended”, “I find it difficult to stop”) have mean values between 3.18 and 3.45, suggesting a tendency toward moderate-to-high levels of compulsive play.
+
+- Guild/social pressure had a mean of 2.45, but some participants reported the maximum value of 5, indicating meaningful pressure for certain players.
+
+  
 
