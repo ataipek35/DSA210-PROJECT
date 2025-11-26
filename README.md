@@ -143,9 +143,9 @@ These distribution results suggest that several players within the sample show e
 
 A scatter plot was generated to examine the relationship between:
 
--Daily playtime (hours)
+- Daily playtime (hours)
 
--Loss-of-control score
+- Loss-of-control score
 
 Visual inspection indicated a positive trend, with higher playtime corresponding to elevated loss-of-control levels.
 Although this does not confirm causation, it provides preliminary support for testing the hypothesis that longer daily play sessions correlate with increased addiction-risk.
