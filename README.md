@@ -193,13 +193,12 @@ There is a significant positive relationship: as daily playtime increases, loss-
 ```python
 from scipy.stats import pearsonr
 pearsonr(df_clean["HoursNumeric"], df_clean["I often play longer than I originally intended."])
-
-
+```
 Result:
-
 - r = 0.52
-
 - p = 0.089
+
+
 
 
   
