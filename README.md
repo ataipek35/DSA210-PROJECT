@@ -277,9 +277,12 @@ These findings justify collecting more data in the future or expanding the model
 - interference with daily life.
 
 ---
----
----
----
+
+## Repository Structure
+
+- `Google Forms Answers.csv` – Raw survey data (22 responses, 11 used after cleaning)
+- `analysis.py` – Python script for EDA, correlation analysis, and hypothesis testing
+- `figures/` – Generated histograms, scatter plot, and correlation heatmap
 
 
   
